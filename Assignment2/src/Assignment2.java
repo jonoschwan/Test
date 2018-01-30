@@ -13,6 +13,8 @@ public class Assignment2 {
 
     public static void main(String[] args) throws IOException{
 
+        System.out.println("test of github");
+
         File file = new File("vehicles.txt"); //Lets file be opened
         Scanner readFile = new Scanner(file); //scanner to read the file
 
